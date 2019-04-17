@@ -1,5 +1,7 @@
 {
   "name": "ionic4-background-geo",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
